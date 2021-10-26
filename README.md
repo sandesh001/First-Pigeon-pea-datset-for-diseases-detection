@@ -4,4 +4,4 @@ Shown example of research paper Pigeon-pea diseases detectioon
 
 
 # Dataset folder tree
-![Dataset figure](Dataset.png)
+![Dataset figure](dataset.png)
