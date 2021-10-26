@@ -1,4 +1,4 @@
-# Research-paper-writing-complete-guide
+# Research-paper-writing-complete-guide (Classification Task)
 Shown example of research paper Pigeon-pea diseases detectioon
 
 
