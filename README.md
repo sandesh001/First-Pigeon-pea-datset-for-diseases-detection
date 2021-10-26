@@ -7,6 +7,7 @@ Shown example of research paper Pigeon-pea diseases detectioon
 Prepare dataset folder structure like this 
 
 Example shown below for Pigeon-pea dataset with Five diseases.
+![Dataset figure](dataset.png)
 
 Dataset-- Train      -- Class 0 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  -- Class 1 <br />
@@ -18,4 +19,4 @@ Dataset-- Train      -- Class 0 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     -- Class 1 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     -- Class 3 <br />
 
-![Dataset figure](dataset.png)
+
