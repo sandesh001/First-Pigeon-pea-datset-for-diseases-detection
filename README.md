@@ -9,7 +9,7 @@ Prepare dataset folder structure like this
 Example shown below for Pigeon-pea dataset with Five diseases.
 
 Dataset-- Train      -- Class 0 <br />
-                     -- Class 1 <br />
+   &nbsp;&nbsp;&nbsp;                  -- Class 1 <br />
                      -- Class 3 <br />
        -- Validation -- Class 0 <br />
                      -- Class 1 <br />
