@@ -8,14 +8,14 @@ Prepare dataset folder structure like this
 
 Example shown below for Pigeon-pea dataset with Five diseases.
 
-Dataset-- Train      -- Class 0\n
-                     -- Class 1
-                     -- Class 3
-       -- Validation -- Class 0
-                     -- Class 1
-                     -- Class 3
-       -- Test       -- Class 0
-                     -- Class 1
-                     -- Class 3
+Dataset-- Train      -- Class 0 <br />
+                     -- Class 1 <br />
+                     -- Class 3 <br />
+       -- Validation -- Class 0 <br />
+                     -- Class 1 <br />
+                     -- Class 3 <br />
+       -- Test       -- Class 0 <br />
+                     -- Class 1 <br />
+                     -- Class 3 <br />
 
 ![Dataset figure](dataset.png)
