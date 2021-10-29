@@ -1,5 +1,5 @@
-# Research-paper-writing-complete-guide (Classification Task)
-Shown example of research paper Pigeon-pea diseases detectioon
+# Dataset is publicly available for research purpose
+ping dataset request on Email: 2018pec901@sggs.ac.in
 
 
 
