@@ -13,14 +13,6 @@ Prepare dataset folder structure like this
 ![Dataset figure](dataset.png)
 
 
-Dataset-- Train      -- Class 0 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  -- Class 1 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     -- Class 3 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       -- Validation -- Class 0 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     -- Class 1 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     -- Class 3 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       -- Test       -- Class 0 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     -- Class 1 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     -- Class 3 <br />
+# This project is collaborative project between VNMKV,Parbhani ( Agricu;ture University) and SGGSIE&T, Nanded (Technical institute)
 
 
